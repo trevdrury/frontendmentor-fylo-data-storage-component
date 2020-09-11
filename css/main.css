@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  background: url('../assets/bg-desktop.png') hsl(229, 57%, 11%);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 100%;
+  color: #fff;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
